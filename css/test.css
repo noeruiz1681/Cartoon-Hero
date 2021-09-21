@@ -1,0 +1,15 @@
+h1{
+    font-size: 50px;
+    color: teal;
+}
+h2{
+    color: tomato;
+    font-size: 20px;
+    color: thistle;
+}
+.big{
+    font-size: 60px;
+}
+h1 span{
+    color: violet;
+}
